@@ -1,0 +1,6 @@
+{
+  "minIntervalMinutes": 30,
+  "maxIntervalMinutes": 180,
+  "useDMs": false,
+  "message": "beep" 
+}
